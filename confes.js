@@ -111,7 +111,7 @@ function startStory() {
   setTimeout(() => {
     loading.classList.add("hidden");
     showPopup("popup0");
-  }, 8000);
+  }, 12000);
 }
 
 /* ================= BUTTON BELUM SIAP ================= */
