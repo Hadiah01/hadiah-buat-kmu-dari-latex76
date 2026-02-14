@@ -147,7 +147,7 @@ function handleNoClick() {
 /* ================= WHATSAPP OTOMATIS ================= */
 function openWhatsApp() {
   const phoneNumber = "6283824063521"; // ganti nomor
-  const websiteLink = "https://contohwebsite.com"; 
+  const websiteLink = "https://hadiah01.github.io/hadiah-buat-kmu-dari-latex76/"; 
 
   const message = `Aku menerima kamu, dan aku mau kita serius. 
 Bukan cuma sekadar animasi di website ini ❤️
@@ -176,7 +176,7 @@ async function showNextPopup(current, next, ...typingIds) {
 function openWhatsAppCode() {
   const phoneNumber = "6283824063521";
   const secretCode = "1&99u";
-  const websiteLink = "https://contohwebsite.com";
+  const websiteLink = "https://hadiah01.github.io/hadiah-buat-kmu-dari-latex76/";
   
   const message = `Kode Rahasia: ${secretCode}
 Terima kasih sudah membuka website ini 🤍
